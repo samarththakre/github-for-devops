@@ -3,3 +3,5 @@ git status
 git add "file name"
 git commit -m "adding testing files"
 git rm --catched <files>
+clear 
+commit push
